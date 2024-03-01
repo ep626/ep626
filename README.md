@@ -19,7 +19,7 @@
 
 <p align="center">
   <img alt="React" width="45px" style="padding-right:30px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtmcm9sdnZ6OTNvemg2ZHJhNDAyMnpiZmdrOWhvMnNxNm1wcWQ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RJzm826vu7WbJvBtxX/giphy.gif" />
-  <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img alt="Python" width="30px" style="padding-right:10px;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl1bzJqZTBkcWNwMXF3MWdzejhxN25vMWJjeWxianRzZGlmMWVhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" />
   <img alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
   <img alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />

@@ -20,7 +20,7 @@
 <p align="center">
   <img alt="React" width="45px" style="padding-right:10px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtmcm9sdnZ6OTNvemg2ZHJhNDAyMnpiZmdrOWhvMnNxNm1wcWQ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RJzm826vu7WbJvBtxX/giphy.gif" />
   <img alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img alt="C++" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+  <img alt="C++" width="45px" style="padding-right:10px;" src="./images/c++.png" />
   <img alt="Angular" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img alt="NodeJS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -28,5 +28,5 @@
   <img alt="HTML" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img alt="JavaScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="GitHub" width="45px" style="padding-right:10px;" src="./images/icons8-github (1).gif" />
+  <img alt="GitHub" width="45px" style="padding-right:10px;" src="./images/github.png" />
 </p>

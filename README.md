@@ -34,4 +34,6 @@
 ---
 <p style="center">
   <h3>About Me</h3>
+  <img alt = "about me" width="45px" style="padding-right:10px;" src="./images/icons8-about-me-96.png"/>
+  
 </p>

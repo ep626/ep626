@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ep626">
-    <img alt="Ethan Prendergast" src="./images/ethan_prendergast_90px_large.png" />
+    <img alt="Ethan Prendergast" src="./images/ethan_prendergast_60px.png" />
   </a>
 </p>
 

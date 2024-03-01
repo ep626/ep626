@@ -11,5 +11,5 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ethan-prendergast/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="./images/icons8-linkedin-100.png"/></a>
+  <a href="https://www.linkedin.com/in/ethan-prendergast/"><img width="70px" alt="LinkedIn" title="LinkedIn" src="./images/icons8-linkedin-100.png"/></a>
 </p>

@@ -28,5 +28,5 @@
   <img alt="HTML" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img alt="JavaScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="GitHub" width="45px" style="padding-right:10px;" src="./images/icons8-github.gif" />
+  <img alt="GitHub" width="45px" style="padding-right:10px;" src="./images/output-onlinegiftools.gif" />
 </p>

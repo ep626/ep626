@@ -34,7 +34,7 @@
 ---
 <p style="center">
   <h2>About Me
-  <img alt = "about me" width="45px" style="padding-right:10px;" src="./images/icons8-about-me-96 (1).png"/>
+  <img alt = "about me" width="45px" style="padding-right:10px;" src="./images/icons8-about-me-100.png"/>
   </h2>
   I'm a Computer Science undergrad with minors in Cybersecurity and AI, dedicated to crafting innovative solutions from the ground up. My project portfolio showcases a journey from concept to code, addressing real-world problems with practical applications. I thrive on challenges that allow me to integrate my skills in diverse areas, constantly seeking to expand my technical expertise and make a tangible impact. Dive into my work to discover how I leverage technology to drive progress and solve complex issues.
 </p>

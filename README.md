@@ -1,4 +1,8 @@
-# 💻 Ethan Prendergast
+<p align="center">
+  <a href="https://github.com/ep626">
+  <span style="color: #3DF78CFF; font-size: 30px;">Ethan Prendergast</span>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">

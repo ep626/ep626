@@ -42,8 +42,8 @@
 </p>
 
 <details open>
-  <summary><h2>My Projects
-  <img alt="project" width="20px" style="padding-right:10px;" src="./images/icons8-project-100.png">
+  <summary><h2>My Projects 
+  <img alt="project" width="30px" style="padding-right:10px;" src="./images/icons8-project-100.png">
   </h2>
   </summary>
   <p align="left">

@@ -15,7 +15,7 @@
 </p>
 
 ---
-<p style="center" width="30px"> 🧰 Languages and Tools
+<p align="center" width="60px"> 🧰 Languages and Tools
 </p>
 <p align="center">
   <img alt="React" width="45px" style="padding-right:10px;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtmcm9sdnZ6OTNvemg2ZHJhNDAyMnpiZmdrOWhvMnNxNm1wcWQ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RJzm826vu7WbJvBtxX/giphy.gif" />

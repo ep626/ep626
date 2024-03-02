@@ -45,7 +45,7 @@
   <summary><h2>📗 My Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/ep626/Top-10-Games">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Top-10-Games&theme=react&bg_color=3DF78C&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Top 10 Games">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Top-10-Games&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Top 10 Games">
     </a>
   </p>
 </details>

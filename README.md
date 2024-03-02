@@ -30,7 +30,6 @@
   <img alt="JavaScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img alt="GitHub" width="45px" style="padding-right:10px;" src="./images/github.png" />
 </p>
-<br />
 
 ---
 <p style="center">

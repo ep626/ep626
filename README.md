@@ -43,7 +43,7 @@
 
 <details open>
   <summary><h2>My Projects 
-  <img alt="project" width="30px" style="padding-right:10px;" src="./images/icons8-project-100 (1).png">
+  <img alt="project" width="30px" style="padding-right:10px;" src="./images/idea.png">
   </h2>
   </summary>
   <p align="left">

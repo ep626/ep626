@@ -16,7 +16,7 @@
 
 ---
 <p align="center">
-  <img alt="Languages and tools" src="./images/languages_and_tools_60px.png" />
+  <img alt="Languages and tools" src="./images/languages_and_tools_40px.png" />
 </p>
 
 <p align="center">

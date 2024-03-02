@@ -38,7 +38,7 @@
   <h2>About Me
     <img alt = "about me" width="45px" style="padding-right:10px;" src="./images/icons8-about-me-96.png"/>
   </h2>
-  </br>
+  <p></p>
   
   **`Digital Craftsman (Developer/Collaborator/Creator)`**
   </br>

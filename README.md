@@ -65,7 +65,7 @@
   <summary>
     <h2>
       My coding journey
-      <img alt="project" width="30px" style="padding-right:10px;" src="./images/journey.png">
+      <img alt="project" width="30px" style="padding-right:10px;" src="./images/journey2.png">
     </h2>
   </summary>
 </details>

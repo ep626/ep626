@@ -68,4 +68,7 @@
       <img alt="project" width="30px" style="padding-right:10px;" src="./images/journey.png">
     </h2>
   </summary>
+  <p align="left">
+    My coding journey began after I completed my AA degree, and I was on the path to obtaining my bachelor's degree in civil engineering. However, during the summer when I was transferring to my university, I decided to take a course in C++ programming just for fun, and I ended up really enjoying it. This experience sparked a change in my major to computer science, and I have no regrets. As I continued my studies, now being a CS major, I learned numerous new programming languages and answered many questions I had, such as "What is a database?" "What is an API?" and "How do I host my code?" And trust me, I still have plenty more questions that I have not yet answered, but the journey I've had so far has been amazing. Now, as someone with a couple of years of experience, I want to develop things that will improve the future for engineers and hopefully bring positive change to the world.
+  </p>
 </details>

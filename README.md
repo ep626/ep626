@@ -56,5 +56,7 @@
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Top-10-Games&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false" alt="Top-10-Games"></a>
     <a href="https://github.com/ep626/Cryptogoraphy">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Cryptogoraphy&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false"alt="Cryptogoraphy"></a>
+    <a href="https://github.com/ep626/screenshotGallery">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=screenshotGallery&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false"alt="screenshotGallery"></a>
   </p>
 </details>

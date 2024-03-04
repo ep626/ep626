@@ -60,3 +60,12 @@
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=screenshotGallery&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false"alt="screenshotGallery"></a>
   </p>
 </details>
+
+<details close>
+  <summary>
+    <h2>
+      My coding journey
+      <img alt="project" width="30px" style="padding-right:10px;" src="./images/journey.png">
+    </h2>
+  </summary>
+</details>

@@ -52,6 +52,10 @@
   </h2>
   </summary>
   <p align="left">
+    <a href="https://github.com/ep626/Dog-Detail">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Dog-Detail&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false" alt="Dog-Detail"></a>
+    <a href="https://github.com/ep626/Brewtopia">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Brewtopia&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false" alt="Brewtopia"></a>
     <a href="https://github.com/ep626/Top-10-Games">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ep626&repo=Top-10-Games&theme=react&bg_color=1F222E&title_color=3DF78C&hide_border=true&icon_color=F8D866&show_icons=false" alt="Top-10-Games"></a>
     <a href="https://github.com/ep626/Cryptogoraphy">
